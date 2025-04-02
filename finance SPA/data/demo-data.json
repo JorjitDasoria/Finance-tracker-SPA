@@ -1,0 +1,385 @@
+{
+  "finance_tracker_transactions": [
+    {
+      "id": "trans-1654873298746",
+      "type": "income",
+      "category": "salary",
+      "amount": 3500,
+      "date": "2023-05-01",
+      "description": "Monthly salary",
+      "createdAt": "2023-05-01T09:15:00.000Z",
+      "updatedAt": "2023-05-01T09:15:00.000Z"
+    },
+    {
+      "id": "trans-1654873321987",
+      "type": "expense",
+      "category": "rent",
+      "amount": 1200,
+      "date": "2023-05-02",
+      "description": "Monthly rent payment",
+      "createdAt": "2023-05-02T15:30:00.000Z",
+      "updatedAt": "2023-05-02T15:30:00.000Z"
+    },
+    {
+      "id": "trans-1654873356742",
+      "type": "expense",
+      "category": "groceries",
+      "amount": 85.73,
+      "date": "2023-05-05",
+      "description": "Weekly groceries at SuperMart",
+      "createdAt": "2023-05-05T18:45:00.000Z",
+      "updatedAt": "2023-05-05T18:45:00.000Z"
+    },
+    {
+      "id": "trans-1654873389123",
+      "type": "expense",
+      "category": "utilities",
+      "amount": 120.50,
+      "date": "2023-05-10",
+      "description": "Electricity bill",
+      "createdAt": "2023-05-10T10:20:00.000Z",
+      "updatedAt": "2023-05-10T10:20:00.000Z"
+    },
+    {
+      "id": "trans-1654873423985",
+      "type": "expense",
+      "category": "dining",
+      "amount": 45.80,
+      "date": "2023-05-12",
+      "description": "Dinner with friends at Italian Garden",
+      "createdAt": "2023-05-12T22:15:00.000Z",
+      "updatedAt": "2023-05-12T22:15:00.000Z"
+    },
+    {
+      "id": "trans-1654873456789",
+      "type": "expense",
+      "category": "transportation",
+      "amount": 35.25,
+      "date": "2023-05-15",
+      "description": "Rideshare services for the week",
+      "createdAt": "2023-05-15T19:30:00.000Z",
+      "updatedAt": "2023-05-15T19:30:00.000Z"
+    },
+    {
+      "id": "trans-1654873487654",
+      "type": "income",
+      "category": "freelance",
+      "amount": 750,
+      "date": "2023-05-18",
+      "description": "Web design project for client",
+      "createdAt": "2023-05-18T16:45:00.000Z",
+      "updatedAt": "2023-05-18T16:45:00.000Z"
+    },
+    {
+      "id": "trans-1654873521234",
+      "type": "expense",
+      "category": "entertainment",
+      "amount": 25.99,
+      "date": "2023-05-20",
+      "description": "Movie tickets and snacks",
+      "createdAt": "2023-05-20T20:10:00.000Z",
+      "updatedAt": "2023-05-20T20:10:00.000Z"
+    },
+    {
+      "id": "trans-1654873567890",
+      "type": "expense",
+      "category": "groceries",
+      "amount": 92.15,
+      "date": "2023-05-22",
+      "description": "Weekly groceries at Fresh Foods",
+      "createdAt": "2023-05-22T17:20:00.000Z",
+      "updatedAt": "2023-05-22T17:20:00.000Z"
+    },
+    {
+      "id": "trans-1654873612345",
+      "type": "expense",
+      "category": "healthcare",
+      "amount": 75,
+      "date": "2023-05-25",
+      "description": "Doctor's appointment co-pay",
+      "createdAt": "2023-05-25T14:30:00.000Z",
+      "updatedAt": "2023-05-25T14:30:00.000Z"
+    },
+    {
+      "id": "trans-1654873689012",
+      "type": "income",
+      "category": "investments",
+      "amount": 125.75,
+      "date": "2023-05-28",
+      "description": "Quarterly dividend payment",
+      "createdAt": "2023-05-28T09:45:00.000Z",
+      "updatedAt": "2023-05-28T09:45:00.000Z"
+    },
+    {
+      "id": "trans-1654873723456",
+      "type": "expense",
+      "category": "shopping",
+      "amount": 150.25,
+      "date": "2023-05-29",
+      "description": "New clothes for summer",
+      "createdAt": "2023-05-29T13:15:00.000Z",
+      "updatedAt": "2023-05-29T13:15:00.000Z"
+    },
+    {
+      "id": "trans-1654873756789",
+      "type": "expense",
+      "category": "groceries",
+      "amount": 78.90,
+      "date": "2023-06-01",
+      "description": "Weekly groceries at SuperMart",
+      "createdAt": "2023-06-01T18:30:00.000Z",
+      "updatedAt": "2023-06-01T18:30:00.000Z"
+    },
+    {
+      "id": "trans-1654873823456",
+      "type": "income",
+      "category": "salary",
+      "amount": 3500,
+      "date": "2023-06-01",
+      "description": "Monthly salary",
+      "createdAt": "2023-06-01T09:10:00.000Z",
+      "updatedAt": "2023-06-01T09:10:00.000Z"
+    },
+    {
+      "id": "trans-1654873889012",
+      "type": "expense",
+      "category": "rent",
+      "amount": 1200,
+      "date": "2023-06-02",
+      "description": "Monthly rent payment",
+      "createdAt": "2023-06-02T15:25:00.000Z",
+      "updatedAt": "2023-06-02T15:25:00.000Z"
+    },
+    {
+      "id": "trans-1654873923456",
+      "type": "expense",
+      "category": "utilities",
+      "amount": 108.75,
+      "date": "2023-06-10",
+      "description": "Electricity & water bill",
+      "createdAt": "2023-06-10T11:20:00.000Z",
+      "updatedAt": "2023-06-10T11:20:00.000Z"
+    },
+    {
+      "id": "trans-1654873956789",
+      "type": "expense",
+      "category": "dining",
+      "amount": 62.50,
+      "date": "2023-06-15",
+      "description": "Anniversary dinner at fancy restaurant",
+      "createdAt": "2023-06-15T20:45:00.000Z",
+      "updatedAt": "2023-06-15T20:45:00.000Z"
+    },
+    {
+      "id": "trans-1654873989012",
+      "type": "income",
+      "category": "freelance",
+      "amount": 550,
+      "date": "2023-06-18",
+      "description": "Logo design for startup",
+      "createdAt": "2023-06-18T14:30:00.000Z",
+      "updatedAt": "2023-06-18T14:30:00.000Z"
+    },
+    {
+      "id": "trans-1654874023456",
+      "type": "expense",
+      "category": "entertainment",
+      "amount": 89.99,
+      "date": "2023-06-24",
+      "description": "Concert tickets",
+      "createdAt": "2023-06-24T19:15:00.000Z",
+      "updatedAt": "2023-06-24T19:15:00.000Z"
+    },
+    {
+      "id": "trans-1654874156789",
+      "type": "expense",
+      "category": "transportation",
+      "amount": 42.30,
+      "date": "2023-06-28",
+      "description": "Gas for road trip",
+      "createdAt": "2023-06-28T16:40:00.000Z",
+      "updatedAt": "2023-06-28T16:40:00.000Z"
+    }
+  ],
+  "finance_tracker_categories": [
+    { "id": "salary", "name": "Salary", "type": "income", "color": "#2ecc71" },
+    { "id": "freelance", "name": "Freelance", "type": "income", "color": "#3498db" },
+    { "id": "investments", "name": "Investments", "type": "income", "color": "#9b59b6" },
+    { "id": "bonus", "name": "Bonus", "type": "income", "color": "#1abc9c" },
+    { "id": "gifts", "name": "Gifts", "type": "income", "color": "#f1c40f" },
+    { "id": "groceries", "name": "Groceries", "type": "expense", "color": "#e74c3c" },
+    { "id": "dining", "name": "Dining Out", "type": "expense", "color": "#f39c12" },
+    { "id": "utilities", "name": "Utilities", "type": "expense", "color": "#1abc9c" },
+    { "id": "rent", "name": "Rent", "type": "expense", "color": "#e67e22" },
+    { "id": "transportation", "name": "Transportation", "type": "expense", "color": "#95a5a6" },
+    { "id": "entertainment", "name": "Entertainment", "type": "expense", "color": "#d35400" },
+    { "id": "healthcare", "name": "Healthcare", "type": "expense", "color": "#3498db" },
+    { "id": "shopping", "name": "Shopping", "type": "expense", "color": "#8e44ad" },
+    { "id": "travel", "name": "Travel", "type": "expense", "color": "#2980b9" },
+    { "id": "education", "name": "Education", "type": "expense", "color": "#27ae60" }
+  ],
+  "finance_tracker_budgets": [
+    {
+      "month": "2023-05",
+      "categories": [
+        { "categoryId": "groceries", "budgetAmount": 350, "alert": 80 },
+        { "categoryId": "dining", "budgetAmount": 200, "alert": 75 },
+        { "categoryId": "utilities", "budgetAmount": 150, "alert": 90 },
+        { "categoryId": "rent", "budgetAmount": 1200, "alert": 100 },
+        { "categoryId": "transportation", "budgetAmount": 150, "alert": 80 },
+        { "categoryId": "entertainment", "budgetAmount": 100, "alert": 70 },
+        { "categoryId": "healthcare", "budgetAmount": 100, "alert": 90 },
+        { "categoryId": "shopping", "budgetAmount": 200, "alert": 75 }
+      ]
+    },
+    {
+      "month": "2023-06",
+      "categories": [
+        { "categoryId": "groceries", "budgetAmount": 350, "alert": 80 },
+        { "categoryId": "dining", "budgetAmount": 250, "alert": 75 },
+        { "categoryId": "utilities", "budgetAmount": 150, "alert": 90 },
+        { "categoryId": "rent", "budgetAmount": 1200, "alert": 100 },
+        { "categoryId": "transportation", "budgetAmount": 200, "alert": 80 },
+        { "categoryId": "entertainment", "budgetAmount": 150, "alert": 70 },
+        { "categoryId": "healthcare", "budgetAmount": 100, "alert": 90 },
+        { "categoryId": "shopping", "budgetAmount": 200, "alert": 75 }
+      ]
+    }
+  ],
+  "finance_tracker_savings_goals": [
+    {
+      "id": "goal-1653489621470",
+      "name": "Emergency Fund",
+      "targetAmount": 10000,
+      "currentAmount": 5500,
+      "deadline": "2023-12-31",
+      "createdAt": "2023-01-15T12:30:00.000Z",
+      "updatedAt": "2023-06-10T15:45:00.000Z",
+      "contributions": [
+        {
+          "id": "contrib-1653489789632",
+          "amount": 1000,
+          "date": "2023-01-15",
+          "note": "Initial contribution"
+        },
+        {
+          "id": "contrib-1653490123456",
+          "amount": 500,
+          "date": "2023-02-05",
+          "note": "Monthly savings"
+        },
+        {
+          "id": "contrib-1653491234567",
+          "amount": 1000,
+          "date": "2023-03-10",
+          "note": "Tax refund"
+        },
+        {
+          "id": "contrib-1653492345678",
+          "amount": 500,
+          "date": "2023-04-05",
+          "note": "Monthly savings"
+        },
+        {
+          "id": "contrib-1653493456789",
+          "amount": 500,
+          "date": "2023-05-06",
+          "note": "Monthly savings"
+        },
+        {
+          "id": "contrib-1653494567890",
+          "amount": 500,
+          "date": "2023-06-10",
+          "note": "Monthly savings"
+        },
+        {
+          "id": "contrib-1653495678901",
+          "amount": 1500,
+          "date": "2023-06-25",
+          "note": "Bonus from work"
+        }
+      ]
+    },
+    {
+      "id": "goal-1653496789012",
+      "name": "Vacation to Europe",
+      "targetAmount": 5000,
+      "currentAmount": 2350,
+      "deadline": "2023-09-30",
+      "createdAt": "2023-02-01T10:15:00.000Z",
+      "updatedAt": "2023-06-18T14:20:00.000Z",
+      "contributions": [
+        {
+          "id": "contrib-1653497890123",
+          "amount": 1000,
+          "date": "2023-02-01",
+          "note": "Initial contribution"
+        },
+        {
+          "id": "contrib-1653498901234",
+          "amount": 400,
+          "date": "2023-03-15",
+          "note": "Monthly savings"
+        },
+        {
+          "id": "contrib-1653499012345",
+          "amount": 450,
+          "date": "2023-04-18",
+          "note": "Monthly savings"
+        },
+        {
+          "id": "contrib-1653500123456",
+          "amount": 500,
+          "date": "2023-06-18",
+          "note": "Extra contribution from freelance work"
+        }
+      ]
+    },
+    {
+      "id": "goal-1653501234567",
+      "name": "New Laptop",
+      "targetAmount": 1500,
+      "currentAmount": 800,
+      "deadline": "2023-08-15",
+      "createdAt": "2023-04-10T18:45:00.000Z",
+      "updatedAt": "2023-06-05T09:30:00.000Z",
+      "contributions": [
+        {
+          "id": "contrib-1653502345678",
+          "amount": 500,
+          "date": "2023-04-10",
+          "note": "Initial contribution"
+        },
+        {
+          "id": "contrib-1653503456789",
+          "amount": 150,
+          "date": "2023-05-12",
+          "note": "Monthly savings"
+        },
+        {
+          "id": "contrib-1653504567890",
+          "amount": 150,
+          "date": "2023-06-05",
+          "note": "Monthly savings"
+        }
+      ]
+    }
+  ],
+  "finance_tracker_settings": {
+    "currency": "USD",
+    "theme": "light",
+    "dateFormat": "MM/DD/YYYY",
+    "notifications": true,
+    "defaultView": "dashboard"
+  },
+  "finance_tracker_user": {
+    "name": "Alex Johnson",
+    "email": "alex.johnson@example.com",
+    "joinDate": "2023-01-01T00:00:00.000Z",
+    "preferences": {
+      "monthlyBudgetReminder": true,
+      "weeklyReportEmail": true,
+      "dailyTransactionReminder": false
+    }
+  }
+} 
